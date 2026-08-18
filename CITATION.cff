@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+type: software
+title: "Electromagnetic Field Data Simulator: topological EM coupling from Faraday tensor computations"
+abstract: >-
+  A high-performance topological electromagnetic coupling simulator built
+  on Faraday tensor computations. A Rust reference core computes the
+  Faraday tensor, Lorentz invariants, coupling fields and a topology
+  proxy; a Python generator emits reproducible JSON datasets through a
+  CLI; and a React application renders the fields interactively.
+authors:
+  - family-names: Sharma
+    given-names: Teerth
+    email: teerths57@gmail.com
+version: 0.1.0
+date-released: 2026-08-18
+url: "https://github.com/teerthsharma/Electromagnetic-Field-Data-Simulator"
+repository-code: "https://github.com/teerthsharma/Electromagnetic-Field-Data-Simulator"
+license: MIT
+keywords:
+  - computational electromagnetics
+  - Faraday tensor
+  - Lorentz invariants
+  - field coupling
+  - computational topology
+  - dataset generation
+  - Rust
+  - Python
