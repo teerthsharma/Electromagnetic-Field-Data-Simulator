@@ -2,6 +2,8 @@
 
 [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21997896-1682D4?style=flat-square)](https://doi.org/10.5281/zenodo.21997896)
 
+<p align="center"><a href="https://teerth.blog/em-field-simulator"><b>Read the essay at teerth.blog/em-field-simulator</b></a> &nbsp;·&nbsp; the maths, the proofs and live figures</p>
+
 High-performance topological electromagnetic coupling simulator using Faraday
 tensor computations, Python dataset generation, a Rust reference core, and a
 React GitHub Pages visualization.
